@@ -2,7 +2,8 @@ import sys
 input = sys.stdin.readline
 
 def main():
-    pass
+    n, m, a = map(int, input().split())
+
 
 if __name__ == "__main__":
     main()
